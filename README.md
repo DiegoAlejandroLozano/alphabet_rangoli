@@ -60,7 +60,9 @@ _rangoli_  has the following parameters:
 Only one line of input containing  `size`, the size of the rangoli.
 
 **Constraints**
+
 $$0<size<27$$
+
 **Sample Input**
 
 ```
@@ -79,4 +81,3 @@ e-d-c-b-a-b-c-d-e
 ------e-d-e------
 --------e--------
 ```
-
