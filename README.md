@@ -61,7 +61,7 @@ Only one line of input containing  `size`, the size of the rangoli.
 
 **Constraints**
 
-$$0<size<27$$
+$$0 < size < 27$$
 
 **Sample Input**
 
